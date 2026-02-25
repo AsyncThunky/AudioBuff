@@ -1,4 +1,4 @@
-# AudioRepairAI: Multi-Codec Flow Matching Restoration
+# AudioBuff: Multi-Codec Flow Matching Restoration
 
 An advanced generative audio restoration pipeline. This architecture utilizes Latent Conditional Flow Matching (LCFM) via a Diffusion Transformer (DiT) backbone to reconstruct damaged audio signals.
 
@@ -14,7 +14,7 @@ By decoupling acoustic feature extraction from the generative regression loop, t
 ## Repository Layout
 
 ```text
-AudioRepairAI/
+AudioBuff/
 |-- data/
 |   |-- dataset.py
 |   `-- prepare_latents.py
