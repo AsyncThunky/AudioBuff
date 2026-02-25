@@ -1,0 +1,5 @@
+torch
+torchaudio
+transformers
+descript-audio-codec
+# xcodec (add specific git repository link depending on the fork used)
